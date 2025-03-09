@@ -1,4 +1,6 @@
 # Hotel-Management-Application
+Warning: Don't directly copyit from main page. Open this Readme file in edit mode then copy it.
+
 
 Steps to Download It:
 1. Click on HotelManagement.exe in files section.
