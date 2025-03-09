@@ -1,5 +1,5 @@
 # Hotel-Management-Application
-Warning: Don't directly copyit from main page. Open this Readme file in edit mode then copy it.
+Warning: Don't directly copy it from main page. Open this Readme file in edit mode then copy it.
 
 
 Steps to Download It:
